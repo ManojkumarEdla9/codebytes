@@ -10,4 +10,9 @@ public float sum(float h, float w) {
 	// TODO Auto-generated method stub
 	return h+w;
 }
+	
+public float sum(float h, float w) {
+	// TODO Auto-generated method stub
+	return h+w;
+}
 }
