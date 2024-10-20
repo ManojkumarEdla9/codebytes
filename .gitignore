@@ -1,0 +1,12 @@
+vi .gitignore
+# Ignore Eclipse project files
+bin/
+target/
+*.class
+*.ear
+*.jar
+#Ignore Eclipse settings
+.settings
+.project
+.classpath
+
